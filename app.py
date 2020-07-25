@@ -10,11 +10,11 @@ import streamlit as st
 import os
 import time
 import fitz
-import shutil
+#import shutil
 import numpy as np
 import pandas as pd
-from keras.models import load_model
-from keras.preprocessing import image
+#from keras.models import load_model
+#from keras.preprocessing import image
 
 # export function to push the data to concerned folder
 
