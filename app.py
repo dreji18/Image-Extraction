@@ -8,7 +8,7 @@ Created on Sat Jul  4 22:17:19 2020
 # importing packages
 import streamlit as st
 import os
-import time
+#import time
 import fitz
 #import shutil
 import numpy as np
