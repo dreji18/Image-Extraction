@@ -1,2 +1,2 @@
 streamlit
-PyMuPDF == 1.9.2
+PyMuPDF
